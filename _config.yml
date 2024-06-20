@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hello. I'm Jami Gibbs."
-email: 'jami0821@gmail.com'
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
+title: "André Vidal Capón."
+email: 'andre.vidal@uvigo.gal'
+description: "PhD Student at [University of Vigo] (https://www.uvigo.gal/en) at [Evolutionary Genetics and Biodiversity Conservation] (https://genxb2.webs.uvigo.es/en/) focusing on marine genomics and evolutionary biology."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
-github_username: 'jamigibbs'
-medium_username: 'blog.jamigibbs.com'
+url: "https://andre-vidal-capon.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+twitter_username: 'avidalcapon'
+github_username: 'andre-vidal-capon'
+medium_username: 'https://scholar.google.com/citations?hl=en&user=2ms2Fg0AAAAJ'
 
 # Build settings
 markdown: kramdown
@@ -92,9 +92,9 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
+footer_text: '© 2024 André Vidal Capón'
+admin_name: 'André Vidal'
+google_analytics: "" # Update with your own tracking ID
 enable_contact: false
 
 #### Phantom Navigation menu
